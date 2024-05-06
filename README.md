@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Joeyoungbig
+- 👋 Hi, I’m Joseph Omale Egwu 
 - 👀 I’m interested in coding, contents writing, copy writing
-- 🌱 I’m currently learning Web Design and Programming
-- 💞️ I’m looking to collaborate on wed design and Programming, content writing
+- 🌱 I’m currently learning Web Development 
+- 💞️ I’m looking forward to collaborate on wed development with other professionals 
 - 📫 How to reach me joeyoungtechnologies@gmail.com
 
 <!---
